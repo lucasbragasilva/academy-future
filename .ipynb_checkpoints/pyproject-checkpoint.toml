@@ -1,4 +1,5 @@
 [tool.poetry]
+<<<<<<< HEAD
 name = "academy-future"
 version = "0.1.0"
 description = ""
@@ -6,6 +7,15 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "~3.8"
+=======
+name = "academy-future3"
+version = "0.1.0"
+description = ""
+authors = ["lucasbragasilva <lucasbragadasilva@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+>>>>>>> 3dc3247 (estudo_ciencias_dados)
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
