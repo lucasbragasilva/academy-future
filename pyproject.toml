@@ -1,5 +1,4 @@
 [tool.poetry]
-<<<<<<< HEAD
 name = "academy-future"
 version = "0.1.0"
 description = ""
@@ -7,7 +6,6 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "~3.8"
-=======
 name = "academy-future3"
 version = "0.1.0"
 description = ""
@@ -20,7 +18,7 @@ numpy = "^1.21.2"
 pandas = "^1.3.4"
 matplotlib = "^3.4.3"
 seaborn = "^0.11.2"
->>>>>>> 3dc3247 (estudo_ciencias_dados)
+
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
